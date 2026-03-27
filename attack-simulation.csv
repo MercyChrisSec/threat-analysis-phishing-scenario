@@ -1,0 +1,4 @@
+Timestamp,User,Email Subject,Email Type,Clicked Link,Compromised,Notes
+2026-03-27 09:15,jane.doe,Invoice Payment Request,Phishing,Yes,No,User reported suspicious email
+2026-03-27 09:30,john.smith,Account Update Needed,Phishing,No,No,Email blocked by filter
+2026-03-27 10:00,mary.jones,Secure Login Required,Phishing,Yes,Yes,Credentials submitted, reset immediately
